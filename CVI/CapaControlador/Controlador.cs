@@ -12,6 +12,38 @@ namespace CapaControlador
     public class Controlador
     {
         Sentencias Modelo = new Sentencias();
+        Sentencias Sn = new Sentencias();
+        public bool procDatosInsertar(string tabla, List<string> lista)
+        {
+            if (Sn.procInsertarDatos(tabla, lista))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+        public string[] itemsDosParametros(string tabla, string campo1, string campo2,string estado)
+        {
+            string[] Items = Sn.llenarCmbDosParametros(tabla, campo1, campo2,estado);
+            return Items;
+        }
+        public DataTable enviarDosParametros(string tabla, string campo1, string campo2, string estado)
+        {
+            var dt1 = Sn.obtenerDosParametros(tabla, campo1, campo2, estado);
+            return dt1;
+        }
+        public int funcCodigoMaximo(string Tabla, string Campo)
+        {
+            int CodigoNuevo = Sn.funcObtenerCodigo(Tabla, Campo);
+            return CodigoNuevo;
+        }
+        public string funcPrecio(string codigo)
+        {
+            string presio = Sn.funcPrecio(codigo);
+            return presio;
+        }
         //clsVariableGlobal glo = new clsVariableGlobal();
         public DataTable funcObtenerCamposCombobox(string Campo1, string Campo2, string Tabla, string Estado)
         {

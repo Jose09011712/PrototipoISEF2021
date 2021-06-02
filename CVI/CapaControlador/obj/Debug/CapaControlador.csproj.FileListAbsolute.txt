@@ -79,3 +79,12 @@ D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaControla
 D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
 D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.dll
 D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.pdb
+D:\Escritorio\PrototipoISEF2021\CVI\CapaControlador\bin\Debug\CapaControlador.dll
+D:\Escritorio\PrototipoISEF2021\CVI\CapaControlador\bin\Debug\CapaControlador.pdb
+D:\Escritorio\PrototipoISEF2021\CVI\CapaControlador\bin\Debug\CapaModelo.dll
+D:\Escritorio\PrototipoISEF2021\CVI\CapaControlador\bin\Debug\CapaModelo.pdb
+D:\Escritorio\PrototipoISEF2021\CVI\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+D:\Escritorio\PrototipoISEF2021\CVI\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+D:\Escritorio\PrototipoISEF2021\CVI\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+D:\Escritorio\PrototipoISEF2021\CVI\CapaControlador\obj\Debug\CapaControlador.dll
+D:\Escritorio\PrototipoISEF2021\CVI\CapaControlador\obj\Debug\CapaControlador.pdb

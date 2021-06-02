@@ -199,6 +199,12 @@
     <Compile Include="Procesos\Facturacion\frmFacturaBusqueda.Designer.cs">
       <DependentUpon>frmFacturaBusqueda.cs</DependentUpon>
     </Compile>
+    <Compile Include="Procesos\Inventarios\FacturacionVentaClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Procesos\Inventarios\FacturacionVentaClientes.Designer.cs">
+      <DependentUpon>FacturacionVentaClientes.cs</DependentUpon>
+    </Compile>
     <Compile Include="Procesos\Inventarios\frmBodegaProdcuto.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -377,6 +383,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Procesos\Facturacion\frmFacturaBusqueda.resx">
       <DependentUpon>frmFacturaBusqueda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Procesos\Inventarios\FacturacionVentaClientes.resx">
+      <DependentUpon>FacturacionVentaClientes.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Procesos\Inventarios\frmBodegaProdcuto.resx">
       <DependentUpon>frmBodegaProdcuto.cs</DependentUpon>

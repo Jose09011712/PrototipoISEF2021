@@ -66,6 +66,7 @@ namespace CapaVista
             this.moverABodegasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ventasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.cobrosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.reciboDeComprasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.reportesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.herramientasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.seguridadToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -83,7 +84,7 @@ namespace CapaVista
             this.toolStripStatusLabel = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolTip = new System.Windows.Forms.ToolTip(this.components);
             this.txtusuario = new System.Windows.Forms.TextBox();
-            this.reciboDeComprasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.facturarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip.SuspendLayout();
             this.statusStrip.SuspendLayout();
             this.SuspendLayout();
@@ -362,6 +363,8 @@ namespace CapaVista
             // 
             // ventasToolStripMenuItem
             // 
+            this.ventasToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.facturarToolStripMenuItem});
             this.ventasToolStripMenuItem.Name = "ventasToolStripMenuItem";
             this.ventasToolStripMenuItem.Size = new System.Drawing.Size(241, 26);
             this.ventasToolStripMenuItem.Text = "Ventas";
@@ -373,6 +376,13 @@ namespace CapaVista
             this.cobrosToolStripMenuItem.Name = "cobrosToolStripMenuItem";
             this.cobrosToolStripMenuItem.Size = new System.Drawing.Size(241, 26);
             this.cobrosToolStripMenuItem.Text = "Cobros";
+            // 
+            // reciboDeComprasToolStripMenuItem
+            // 
+            this.reciboDeComprasToolStripMenuItem.Name = "reciboDeComprasToolStripMenuItem";
+            this.reciboDeComprasToolStripMenuItem.Size = new System.Drawing.Size(260, 26);
+            this.reciboDeComprasToolStripMenuItem.Text = "0901-Recibo de Compras";
+            this.reciboDeComprasToolStripMenuItem.Click += new System.EventHandler(this.reciboDeComprasToolStripMenuItem_Click);
             // 
             // reportesToolStripMenuItem
             // 
@@ -495,17 +505,17 @@ namespace CapaVista
             // 
             this.txtusuario.Enabled = false;
             this.txtusuario.Location = new System.Drawing.Point(708, 2);
-            this.txtusuario.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtusuario.Margin = new System.Windows.Forms.Padding(4);
             this.txtusuario.Name = "txtusuario";
             this.txtusuario.Size = new System.Drawing.Size(132, 22);
             this.txtusuario.TabIndex = 4;
             // 
-            // reciboDeComprasToolStripMenuItem
+            // facturarToolStripMenuItem
             // 
-            this.reciboDeComprasToolStripMenuItem.Name = "reciboDeComprasToolStripMenuItem";
-            this.reciboDeComprasToolStripMenuItem.Size = new System.Drawing.Size(260, 26);
-            this.reciboDeComprasToolStripMenuItem.Text = "0901-Recibo de Compras";
-            this.reciboDeComprasToolStripMenuItem.Click += new System.EventHandler(this.reciboDeComprasToolStripMenuItem_Click);
+            this.facturarToolStripMenuItem.Name = "facturarToolStripMenuItem";
+            this.facturarToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.facturarToolStripMenuItem.Text = "Facturar";
+            this.facturarToolStripMenuItem.Click += new System.EventHandler(this.facturarToolStripMenuItem_Click);
             // 
             // MDIPrincipal
             // 
@@ -518,7 +528,7 @@ namespace CapaVista
             this.Controls.Add(this.menuStrip);
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "MDIPrincipal";
             this.Text = "CVI Principal";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
@@ -587,6 +597,7 @@ namespace CapaVista
         private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem2;
         private System.Windows.Forms.ToolStripMenuItem moverABodegasToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem reciboDeComprasToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem facturarToolStripMenuItem;
     }
 }
 

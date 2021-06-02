@@ -31,3 +31,36 @@ D:\Escritorio\Segundo Grupo\ProyectoUMGISSCRUM2k21-PrototipoNoFuncional\CVI\Ejec
 D:\Escritorio\Segundo Grupo\ProyectoUMGISSCRUM2k21-PrototipoNoFuncional\CVI\Ejecutable\obj\Debug\Ejecutable.csproj.CopyComplete
 D:\Escritorio\Segundo Grupo\ProyectoUMGISSCRUM2k21-PrototipoNoFuncional\CVI\Ejecutable\obj\Debug\Ejecutable.exe
 D:\Escritorio\Segundo Grupo\ProyectoUMGISSCRUM2k21-PrototipoNoFuncional\CVI\Ejecutable\obj\Debug\Ejecutable.pdb
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\bin\Debug\Ejecutable.exe.config
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\bin\Debug\Ejecutable.exe
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\bin\Debug\Ejecutable.pdb
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\bin\Debug\CapaVista.dll
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\bin\Debug\CapaControlador.dll
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\bin\Debug\CapaVistaNavegador.dll
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\bin\Debug\CapaVistaSeguridad.dll
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\bin\Debug\CapaModelo.dll
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\bin\Debug\CapaControladorNavegador.dll
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\bin\Debug\CapaControladorSeguridad.dll
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\bin\Debug\CapaVistaEncriptar.dll
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\bin\Debug\CapaModeloSeguridad.dll
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\bin\Debug\CapaModeloNavegador.dll
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\bin\Debug\CapaControladorEncriptar.dll
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\bin\Debug\CapaVista.pdb
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\bin\Debug\CapaControlador.pdb
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\bin\Debug\CapaVistaNavegador.pdb
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\bin\Debug\CapaVistaSeguridad.pdb
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\bin\Debug\CapaModelo.pdb
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\bin\Debug\CapaControladorNavegador.pdb
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\bin\Debug\CapaControladorSeguridad.pdb
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\bin\Debug\CapaVistaEncriptar.pdb
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\bin\Debug\CapaModeloSeguridad.pdb
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\bin\Debug\CapaModeloNavegador.pdb
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\bin\Debug\CapaControladorEncriptar.pdb
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\obj\Debug\Ejecutable.csprojAssemblyReference.cache
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\obj\Debug\Ejecutable.Properties.Resources.resources
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\obj\Debug\Ejecutable.csproj.GenerateResource.cache
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\obj\Debug\Ejecutable.csproj.CoreCompileInputs.cache
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\obj\Debug\Ejecutable.csproj.CopyComplete
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\obj\Debug\Ejecutable.exe
+D:\Escritorio\PrototipoISEF2021\CVI\Ejecutable\obj\Debug\Ejecutable.pdb
