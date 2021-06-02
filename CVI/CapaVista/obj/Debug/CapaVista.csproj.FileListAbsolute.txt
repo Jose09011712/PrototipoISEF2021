@@ -1,0 +1,480 @@
+C:\Users\jmora\source\repos\MVC\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\jmora\source\repos\MVC\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\jmora\source\repos\MVC\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\jmora\source\repos\MVC\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\jmora\source\repos\MVC\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\jmora\source\repos\MVC\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\jmora\source\repos\MVC\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\jmora\source\repos\MVC\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\jmora\source\repos\MVC\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\jmora\source\repos\MVC\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\jmora\source\repos\MVC\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\jmora\source\repos\MVC\CapaVista\obj\Debug\CapaVista.MDIPrincipal.resources
+C:\Users\jmora\source\repos\MVC\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\jmora\Desktop\Parcial\MVC\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\jmora\Desktop\Parcial\MVC\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\jmora\Desktop\Parcial\MVC\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\jmora\Desktop\Parcial\MVC\CapaVista\bin\Debug\CapaVistaNavegador.dll
+C:\Users\jmora\Desktop\Parcial\MVC\CapaVista\bin\Debug\CapaVistaSeguridad.dll
+C:\Users\jmora\Desktop\Parcial\MVC\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\jmora\Desktop\Parcial\MVC\CapaVista\bin\Debug\CapaControladorNavegador.dll
+C:\Users\jmora\Desktop\Parcial\MVC\CapaVista\bin\Debug\CapaControladorSeguridad.dll
+C:\Users\jmora\Desktop\Parcial\MVC\CapaVista\bin\Debug\CapaModeloSeguridad.dll
+C:\Users\jmora\Desktop\Parcial\MVC\CapaVista\bin\Debug\CapaModeloNavegador.dll
+C:\Users\jmora\Desktop\Parcial\MVC\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\jmora\Desktop\Parcial\MVC\CapaVista\bin\Debug\CapaVistaNavegador.pdb
+C:\Users\jmora\Desktop\Parcial\MVC\CapaVista\bin\Debug\CapaVistaSeguridad.pdb
+C:\Users\jmora\Desktop\Parcial\MVC\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\jmora\Desktop\Parcial\MVC\CapaVista\bin\Debug\CapaControladorNavegador.pdb
+C:\Users\jmora\Desktop\Parcial\MVC\CapaVista\bin\Debug\CapaControladorSeguridad.pdb
+C:\Users\jmora\Desktop\Parcial\MVC\CapaVista\bin\Debug\CapaModeloSeguridad.pdb
+C:\Users\jmora\Desktop\Parcial\MVC\CapaVista\bin\Debug\CapaModeloNavegador.pdb
+C:\Users\jmora\Desktop\Parcial\MVC\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\jmora\Desktop\Parcial\MVC\CapaVista\obj\Debug\CapaVista.MDIPrincipal.resources
+C:\Users\jmora\Desktop\Parcial\MVC\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\jmora\Desktop\Parcial\MVC\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\jmora\Desktop\Parcial\MVC\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\jmora\Desktop\Parcial\MVC\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\jmora\Desktop\Parcial\MVC\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\jmora\Desktop\Parcial\MVC\CapaVista\obj\Debug\CapaVista.frmMantenimiento.resources
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\bin\Debug\CapaVistaNavegador.dll
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\bin\Debug\CapaVistaSeguridad.dll
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\bin\Debug\CapaControladorNavegador.dll
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\bin\Debug\CapaControladorSeguridad.dll
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\bin\Debug\CapaModeloSeguridad.dll
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\bin\Debug\CapaModeloNavegador.dll
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\bin\Debug\CapaVistaNavegador.pdb
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\bin\Debug\CapaVistaSeguridad.pdb
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\bin\Debug\CapaControladorNavegador.pdb
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\bin\Debug\CapaControladorSeguridad.pdb
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\bin\Debug\CapaModeloSeguridad.pdb
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\bin\Debug\CapaModeloNavegador.pdb
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\obj\Debug\CapaVista.frmMantenimiento.resources
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\obj\Debug\CapaVista.MDIPrincipal.resources
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Cotizaciones.frmCotizaciones.resources
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\obj\Debug\CapaVista.Procesos.frmInventarios.resources
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\obj\Debug\CapaVista.Procesos.frmOrdenCompra.resources
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaVista\obj\Debug\CapaVista.Procesos.frmSaldos.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaNavegador.dll
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaSeguridad.dll
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorNavegador.dll
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorSeguridad.dll
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModeloSeguridad.dll
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModeloNavegador.dll
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaNavegador.pdb
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaSeguridad.pdb
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorNavegador.pdb
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorSeguridad.pdb
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModeloSeguridad.pdb
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModeloNavegador.pdb
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.MDIPrincipal.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Cotizaciones.frmCotizaciones.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Cotizaciones.frmNuevaCotizacion.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Entregas.frmEntregas.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Entregas.frmNuevaEntrega.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Facturacion.frmFactura.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Facturacion.frmFacturaBusqueda.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Inventarios.frmConfirmacionOrden.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.frmInventarios.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.frmSaldos.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Ordenes.frmOrdenes.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaNavegador.dll
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaSeguridad.dll
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorNavegador.dll
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorSeguridad.dll
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModeloSeguridad.dll
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModeloNavegador.dll
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaNavegador.pdb
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaSeguridad.pdb
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorNavegador.pdb
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorSeguridad.pdb
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModeloSeguridad.pdb
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModeloNavegador.pdb
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.MDIPrincipal.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Cobradores.frmAsignarCobrador.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Cotizaciones.frmCotizaciones.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Cotizaciones.frmModificarCotizacion.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Cotizaciones.frmNuevaCotizacion.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Entregas.frmConfirmacionEntrega.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Entregas.frmEntregas.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Entregas.frmNuevaEntrega.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Facturacion.frmFactura.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Facturacion.frmFacturaBusqueda.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Inventarios.frmConfirmacionOrden.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.frmInventarios.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Ordenes.frmOrdenes.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmPais.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmDepartamento.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmMunicipio.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVista.dll
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVista.pdb
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControlador.dll
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaNavegador.dll
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaSeguridad.dll
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModelo.dll
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorNavegador.dll
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorSeguridad.dll
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModeloSeguridad.dll
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModeloNavegador.dll
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControlador.pdb
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaNavegador.pdb
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaSeguridad.pdb
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModelo.pdb
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorNavegador.pdb
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorSeguridad.pdb
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModeloSeguridad.pdb
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModeloNavegador.pdb
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmDepartamento.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.frmProveedores.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmMunicipio.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmPais.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.MDIPrincipal.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Cobradores.frmAsignarCobrador.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Cotizaciones.frmCotizaciones.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Cotizaciones.frmModificarCotizacion.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Cotizaciones.frmNuevaCotizacion.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Entregas.frmConfirmacionEntrega.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Entregas.frmEntregas.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Entregas.frmNuevaEntrega.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Facturacion.frmFactura.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Facturacion.frmFacturaBusqueda.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Inventarios.frmConfirmacionOrden.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.frmInventarios.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.frmSaldos.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Ordenes.frmOrdenes.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.dll
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmLineaProduc.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.frmProveedores.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmMarcaPro.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmCliente.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmCliente.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmEmpresa.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmLineaProduc.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmMarcaPro.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmSucursal.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmCliente.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmDepartamento.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmEmpresa.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmLineaProduc.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmMarcaPro.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmProducto.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.frmProveedores.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmMunicipio.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmPais.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmSucursal.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Cobradores.frmAsignarCobrador.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Cotizaciones.frmModificarCotizacion.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Entregas.frmConfirmacionEntrega.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmBodega.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmBodega.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmEmpresa.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmProducto.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmSucursal.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmBodega.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmProducto.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Inventarios.frmInventarioTotal.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Inventarios.frmInventarioTotal.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaEncriptar.dll
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorEncriptar.dll
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaEncriptar.pdb
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorEncriptar.pdb
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Inventarios.frmInventarioTotal.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmMovimientoInventarios.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmSeleccionBodega.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmSeleccionProducto.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaEncriptar.dll
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorEncriptar.dll
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaEncriptar.pdb
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorEncriptar.pdb
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmMovimientoInventarios.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmSeleccionBodega.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmSeleccionProducto.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Inventarios.frmVistaMovimientoInventario.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Inventarios.frmBodegaProdcuto.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaEncriptar.dll
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorEncriptar.dll
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaEncriptar.pdb
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorEncriptar.pdb
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmMovimientoInventario.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Inventarios.frmBodegaProdcuto.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Inventarios.frmVistaMovimientoInventario.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmMovimientoInventarios.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmSeleccionBodega.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmSeleccionProducto.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmExistencia.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.OrdenesCompra.frmImpresionfacturaCompras.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.OrdenesCompra.frmEstadoCompras.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.OrdenesCompra.frmAbonoCuentas.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmBodega.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmCliente.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmDepartamento.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmEmpresa.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmExistencia.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmLineaProduc.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmMarcaPro.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmMovimientoInventario.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmProducto.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.frmProveedores.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmMunicipio.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmPais.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmSucursal.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.MDIPrincipal.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Cobradores.frmAsignarCobrador.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Cotizaciones.frmCotizaciones.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Cotizaciones.frmModificarCotizacion.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Cotizaciones.frmNuevaCotizacion.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Entregas.frmConfirmacionEntrega.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Entregas.frmEntregas.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Entregas.frmNuevaEntrega.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Facturacion.frmFactura.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Facturacion.frmFacturaBusqueda.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Inventarios.frmBodegaProdcuto.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Inventarios.frmConfirmacionOrden.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.frmInventarios.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Inventarios.frmInventarioTotal.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Inventarios.frmVistaMovimientoInventario.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmMovimientoInventarios.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmSeleccionBodega.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmSeleccionCliente.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmSeleccionProducto.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmSeleccionProveedor.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.OrdenesCompra.frmAbonoCuentas.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.OrdenesCompra.frmEstadoCompras.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.OrdenesCompra.frmImpresionfacturaCompras.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.frmSaldos.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Ordenes.frmOrdenes.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.dll
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.pdb
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVista.dll
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVista.pdb
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControlador.dll
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaEncriptar.dll
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaNavegador.dll
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaSeguridad.dll
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModelo.dll
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorEncriptar.dll
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorNavegador.dll
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorSeguridad.dll
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModeloSeguridad.dll
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModeloNavegador.dll
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControlador.pdb
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaEncriptar.pdb
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaNavegador.pdb
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaSeguridad.pdb
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModelo.pdb
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorEncriptar.pdb
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorNavegador.pdb
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorSeguridad.pdb
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModeloSeguridad.pdb
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModeloNavegador.pdb
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmSeleccionCliente.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmSeleccionProveedor.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmExistencia.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmMovimientoInventario.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmSeleccionCliente.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmSeleccionProveedor.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.OrdenesCompra.frmAbonoCuentas.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.OrdenesCompra.frmEstadoCompras.resources
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.OrdenesCompra.frmImpresionfacturaCompras.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmExistencia.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmMovimientoInventario.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Inventarios.frmBodegaProdcuto.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Inventarios.frmVistaMovimientoInventario.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmSeleccionCliente.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmSeleccionProveedor.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.OrdenesCompra.frmAbonoCuentas.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.OrdenesCompra.frmEstadoCompras.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.OrdenesCompra.frmImpresionfacturaCompras.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.OrdenesCompra.frmGuardar1.resources
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.OrdenesCompra.frmVisualizarTodo.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaEncriptar.dll
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaNavegador.dll
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaSeguridad.dll
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorEncriptar.dll
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorNavegador.dll
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorSeguridad.dll
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModeloSeguridad.dll
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModeloNavegador.dll
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaEncriptar.pdb
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaNavegador.pdb
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaSeguridad.pdb
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorEncriptar.pdb
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorNavegador.pdb
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorSeguridad.pdb
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModeloSeguridad.pdb
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModeloNavegador.pdb
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmBodega.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmCliente.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmDepartamento.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmEmpresa.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmExistencia.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmLineaProduc.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmMarcaPro.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmMovimientoInventario.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmProducto.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.frmProveedores.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmMunicipio.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmPais.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmSucursal.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.MDIPrincipal.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Cobradores.frmAsignarCobrador.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Cotizaciones.frmCotizaciones.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Cotizaciones.frmModificarCotizacion.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Cotizaciones.frmNuevaCotizacion.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Entregas.frmConfirmacionEntrega.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Entregas.frmEntregas.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Entregas.frmNuevaEntrega.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Facturacion.frmFactura.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Facturacion.frmFacturaBusqueda.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Inventarios.frmBodegaProdcuto.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Inventarios.frmConfirmacionOrden.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.frmInventarios.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Inventarios.frmInventarioTotal.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Inventarios.frmVistaMovimientoInventario.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmMovimientoInventarios.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmSeleccionBodega.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmSeleccionCliente.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmSeleccionProducto.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmSeleccionProveedor.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.OrdenesCompra.frmAbonoCuentas.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.OrdenesCompra.frmEstadoCompras.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.OrdenesCompra.frmGuardar1.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.OrdenesCompra.frmImpresionfacturaCompras.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.OrdenesCompra.frmVisualizarTodo.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Ordenes.frmOrdenes.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Saldos.frmReciboCompras.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.OrdenesCompra.frmGuardar1.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.OrdenesCompra.frmVisualizarTodo.resources
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Saldos.frmReciboCompras.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVista.dll
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVista.pdb
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControlador.dll
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaEncriptar.dll
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaNavegador.dll
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaSeguridad.dll
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModelo.dll
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorEncriptar.dll
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorNavegador.dll
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorSeguridad.dll
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModeloSeguridad.dll
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModeloNavegador.dll
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControlador.pdb
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaEncriptar.pdb
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaNavegador.pdb
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaVistaSeguridad.pdb
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModelo.pdb
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorEncriptar.pdb
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorNavegador.pdb
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaControladorSeguridad.pdb
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModeloSeguridad.pdb
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\bin\Debug\CapaModeloNavegador.pdb
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmBodega.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmCliente.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmDepartamento.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmEmpresa.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmExistencia.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmLineaProduc.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmMarcaPro.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmMovimientoInventario.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmProducto.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.frmProveedores.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmMunicipio.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmPais.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Mantenimientos.frmSucursal.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.MDIPrincipal.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Cobradores.frmAsignarCobrador.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Cotizaciones.frmCotizaciones.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Cotizaciones.frmModificarCotizacion.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Cotizaciones.frmNuevaCotizacion.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Entregas.frmConfirmacionEntrega.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Entregas.frmEntregas.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Entregas.frmNuevaEntrega.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Facturacion.frmFactura.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Facturacion.frmFacturaBusqueda.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Inventarios.frmBodegaProdcuto.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Inventarios.frmConfirmacionOrden.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.frmInventarios.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Inventarios.frmInventarioTotal.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Inventarios.frmVistaMovimientoInventario.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmMovimientoInventarios.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmSeleccionBodega.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmSeleccionCliente.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmSeleccionProducto.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.MovimientoInventarios.frmSeleccionProveedor.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.OrdenesCompra.frmAbonoCuentas.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.OrdenesCompra.frmEstadoCompras.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.OrdenesCompra.frmGuardar1.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.OrdenesCompra.frmImpresionfacturaCompras.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.OrdenesCompra.frmVisualizarTodo.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Saldos.frmReciboCompras.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Procesos.Ordenes.frmOrdenes.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.dll
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaVista\obj\Debug\CapaVista.pdb

@@ -1,0 +1,6 @@
+D:\Documentos\Proyectos-Software\PruebasSeguridad2.0\ObjetoEncriptar\CapaModeloEncriptar\bin\Debug\CapaModeloEncriptar.dll
+D:\Documentos\Proyectos-Software\PruebasSeguridad2.0\ObjetoEncriptar\CapaModeloEncriptar\bin\Debug\CapaModeloEncriptar.pdb
+D:\Documentos\Proyectos-Software\PruebasSeguridad2.0\ObjetoEncriptar\CapaModeloEncriptar\obj\Debug\CapaModeloEncriptar.csprojAssemblyReference.cache
+D:\Documentos\Proyectos-Software\PruebasSeguridad2.0\ObjetoEncriptar\CapaModeloEncriptar\obj\Debug\CapaModeloEncriptar.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyectos-Software\PruebasSeguridad2.0\ObjetoEncriptar\CapaModeloEncriptar\obj\Debug\CapaModeloEncriptar.dll
+D:\Documentos\Proyectos-Software\PruebasSeguridad2.0\ObjetoEncriptar\CapaModeloEncriptar\obj\Debug\CapaModeloEncriptar.pdb

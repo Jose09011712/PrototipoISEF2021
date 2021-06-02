@@ -1,0 +1,81 @@
+C:\Users\jmora\source\repos\MVC\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\jmora\source\repos\MVC\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\jmora\source\repos\MVC\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+C:\Users\jmora\source\repos\MVC\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\jmora\source\repos\MVC\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\jmora\source\repos\MVC\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\jmora\source\repos\MVC\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\jmora\source\repos\MVC\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\jmora\source\repos\MVC\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\jmora\Desktop\Parcial\MVC\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\jmora\Desktop\Parcial\MVC\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\jmora\Desktop\Parcial\MVC\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\jmora\Desktop\Parcial\MVC\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\jmora\Desktop\Parcial\MVC\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+C:\Users\jmora\Desktop\Parcial\MVC\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\jmora\Desktop\Parcial\MVC\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\jmora\Desktop\Parcial\MVC\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\jmora\Desktop\Parcial\MVC\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\jmora\Desktop\Git\Modelo-MVC\CVI\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\brian\Desktop\Nueva carpeta\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.pdb
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\bin\Debug\CapaControlador.dll
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\bin\Debug\CapaControlador.pdb
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\bin\Debug\CapaModelo.dll
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\bin\Debug\CapaModelo.pdb
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.dll
+D:\Documentos\Proyectos-Software\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\jmora\Desktop\Git\ForkProy2\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.pdb
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\bin\Debug\CapaControlador.dll
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\bin\Debug\CapaControlador.pdb
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\bin\Debug\CapaModelo.dll
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\bin\Debug\CapaModelo.pdb
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.dll
+D:\Documentos\Proyectos-Software\Nuevo\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\brian\Desktop\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.pdb
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\bin\Debug\CapaControlador.dll
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\bin\Debug\CapaControlador.pdb
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\bin\Debug\CapaModelo.dll
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\bin\Debug\CapaModelo.pdb
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.dll
+D:\Documentos\Proyectos-Software\Cambios\ProyectoUMGISSCRUM2k21\CVI\CapaControlador\obj\Debug\CapaControlador.pdb

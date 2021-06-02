@@ -1,0 +1,9 @@
+D:\Documentos\Proyectos-Software\PruebasSeguridad2.0\ObjetoEncriptar\CapaVistaEncriptar\bin\Debug\CapaVistaEncriptar.dll
+D:\Documentos\Proyectos-Software\PruebasSeguridad2.0\ObjetoEncriptar\CapaVistaEncriptar\bin\Debug\CapaVistaEncriptar.pdb
+D:\Documentos\Proyectos-Software\PruebasSeguridad2.0\ObjetoEncriptar\CapaVistaEncriptar\obj\Debug\CapaVistaEncriptar.csprojAssemblyReference.cache
+D:\Documentos\Proyectos-Software\PruebasSeguridad2.0\ObjetoEncriptar\CapaVistaEncriptar\obj\Debug\CapaVistaEncriptar.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyectos-Software\PruebasSeguridad2.0\ObjetoEncriptar\CapaVistaEncriptar\obj\Debug\CapaVistaEncriptar.dll
+D:\Documentos\Proyectos-Software\PruebasSeguridad2.0\ObjetoEncriptar\CapaVistaEncriptar\obj\Debug\CapaVistaEncriptar.pdb
+D:\Documentos\Proyectos-Software\PruebasSeguridad2.0\ObjetoEncriptar\CapaVistaEncriptar\bin\Debug\CapaControladorEncriptar.dll
+D:\Documentos\Proyectos-Software\PruebasSeguridad2.0\ObjetoEncriptar\CapaVistaEncriptar\bin\Debug\CapaControladorEncriptar.pdb
+D:\Documentos\Proyectos-Software\PruebasSeguridad2.0\ObjetoEncriptar\CapaVistaEncriptar\obj\Debug\CapaVistaEncriptar.csproj.CopyComplete
