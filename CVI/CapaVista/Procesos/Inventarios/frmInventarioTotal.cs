@@ -257,5 +257,15 @@ namespace CapaVista.Procesos.Inventarios
         {
             Help.ShowHelp(this, "Ayudas/MSantizo2.chm", "AyudaInventario.html");
         }
+
+        private void rbProducto_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void rbExistencia_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

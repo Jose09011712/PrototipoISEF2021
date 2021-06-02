@@ -571,5 +571,12 @@ namespace CapaVista
                 MessageBox.Show("El Usuario No Cuenta Con Permisos De Acceso A La Aplicación");
             }
         }
+
+        private void facturarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Procesos.Inventarios.FacturacionVentaClientes mantenimiento = new Procesos.Inventarios.FacturacionVentaClientes();
+            mantenimiento.MdiParent = this;
+            mantenimiento.Show();
+        }
     }
 }
